@@ -57,6 +57,7 @@ h1 {
 	padding: 3px;
 }
 .glasses {
+	display: inline-block;
 	margin-bottom: 60px;
 }
 .text {
@@ -113,4 +114,21 @@ h1 {
 .last-text {
 	line-height: 1.6;
 	text-align: left;
+	margin-bottom: 60px;
+}
+.date-net-end {
+	padding-left: 668px;
+	display: inline-block;
+}
+.date-net-end p {
+	display: inline-block;
+	margin-right: 6px;
+}
+.date-net-end img:nth-of-type(1) {
+	margin-right: 12px;
+}
+
+.date-net-end img:nth-of-type(2) {
+	margin-right: 12px;
+	padding: 3px;
 }
